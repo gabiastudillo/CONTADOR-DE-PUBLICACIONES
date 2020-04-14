@@ -1,8 +1,11 @@
 # CONTADOR-DE-PUBLICACIONES
 Contador de publicaciones de las redes sociales FACEBOOK, TWITTER, INSTAGRAM, YOUTUBE, TUMBLR, y PINTEREST.
 
-FRONTEND 
+FRONTEND:
 Desarrollado con el framwork ReactJS
 
-BACKEND
+BACKEND:
 Desarrollado con NodeJS
+
+BASE DE DATOS: 
+PostgreSQL
